@@ -13,6 +13,9 @@ UC Berkeley, Summer 2024
 {{ site.description }}
 {: .mb-2 .fs-5 }
 
+**Instructors: Amy Castillo, Nahee Jeong, Dream Lopez, Victoria Phelps, Mansi Shah, Sarah Taylor, Caren Thomas** 
+{: .fs-4 }
+
 ## Course Calendar
 
 {% include_relative calendar.md %}
