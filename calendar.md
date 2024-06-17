@@ -13,7 +13,7 @@
     <tr>
       <td rowspan = "6">6/18</td>
       <td>Block 1: 9:30-11:30AM</td>
-      <td colspan = "2">Welcome Session in Wozniak Lounge</td>
+      <td colspan = "2">Welcome Session in Wozniak Lounge <br/> <a href="https://forms.gle/U8n623wJ3tb1U6DK7">Getting to Know You</a></td>
       <td rowspan = "6">Wordmatch Game</td>
       <td rowspan = "6">Day 1 Reflection</td>
     </tr>
