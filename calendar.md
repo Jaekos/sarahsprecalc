@@ -3,30 +3,26 @@
     <tr>
       <th>Date</th>
       <th>Block</th>
-      <th>Class Content</th>
+      <th>Class Content: Option 1</th>
+      <th>Class Content: Option 2</th>
       <th>Extra Practice</th>
       <th>Resources/Links</th>
     </tr>
   </thead>
   <tbody class="js-scheduleContent">
     <tr>
-      <td rowspan = "7">6/20</td>
-      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
-      <td>Welcome Session in 380 Soda</td>
-      <td rowspan = "7">Wordmatch Game</td>
-      <td rowspan = "7">Day 1 Reflection</td>
+      <td rowspan = "6">6/18</td>
+      <td>Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Welcome Session in Wozniak Lounge</td>
+      <td rowspan = "6">Wordmatch Game</td>
+      <td rowspan = "6">Day 1 Reflection</td>
     </tr>
     <tr>
-      <td>Course Logistics and Welcome</td>
+      <td rowspan = "4">Block 2: 1:30-3:30PM</td>
+      <td colspan = "2">Working in Snap!</td>
     </tr>
     <tr>
-      <td>Coding Exercise</td>
-    </tr>
-    <tr>
-      <td rowspan = "3">Block 2: 1:30-3:30PM</td>
-      <td>Section Norms, Getting to Know You</td>
-    </tr>
-    <tr>
+      <td rowspan = "2">Lecture: Functions and Algorithms</td>
       <td>Intro Lab 1: Introduction to Programming<br/>(only complete through Page 2)
       </td>
     </tr>
@@ -34,7 +30,13 @@
       <td>Intro Lab 2: Gossip</td>
     </tr>
     <tr>
+      <td>Lab 1: Welcome to Snap!</td>
+      <td>Lecture: Domain and Range, Scoping
+      </td>
+    </tr>
+    <tr>
       <td>Block 3: 4:00-5:30PM</td>
+      <td>Lecture: Conditions and Scoping</td>
       <td>Intro Lab 3: Modern Art with Polygons<br/>(only complete through Page 6)</td>
     </tr>
     <tr>
