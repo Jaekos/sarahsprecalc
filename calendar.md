@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td rowspan = "2">Lecture: Functions and Algorithms</td>
-      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 1: Introduction to Programming<br/>(only complete through Page 2)
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 1: Introduction to Programming</a><br/>(only complete through Page 2)
       </td>
     </tr>
     <tr>
