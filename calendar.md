@@ -23,21 +23,21 @@
     </tr>
     <tr>
       <td rowspan = "2">Lecture: Functions and Algorithms</td>
-      <td>Intro Lab 1: Introduction to Programming<br/>(only complete through Page 2)
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 1: Introduction to Programming<br/>(only complete through Page 2)
       </td>
     </tr>
     <tr>
-      <td>Intro Lab 2: Gossip</td>
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 2: Gossip</a></td>
     </tr>
     <tr>
-      <td>Lab 1: Welcome to Snap!</td>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td>
       <td>Lecture: Domain and Range, Scoping
       </td>
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
       <td>Lecture: Conditions and Scoping</td>
-      <td>Intro Lab 3: Modern Art with Polygons<br/>(only complete through Page 6)</td>
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 3: Modern Art with Polygons<br/>(only complete through Page 6)</a></td>
     </tr>
   </tbody>
 </table>
