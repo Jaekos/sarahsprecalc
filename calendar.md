@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1: Welcome to Snap!</a></td>
-      <td>Lecture: Domain and Range, Scoping
+      <td><a href="https://docs.google.com/presentation/d/1nCbASO4tRndnURuD8jf4-3m8Ul5umsCrjhFqpV2LGQg/edit#slide=id.g273b829c944_0_407">Lecture: Domain and Range, Scoping</a>
       </td>
     </tr>
     <tr>
