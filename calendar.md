@@ -3,8 +3,8 @@
     <tr>
       <th>Date</th>
       <th>Block</th>
-      <th>Class Content: Option 1</th>
-      <th>Class Content: Option 2</th>
+      <th>Class Content: Option A</th>
+      <th>Class Content: Option B</th>
       <th>Extra Practice</th>
       <th>Resources/Links</th>
     </tr>
@@ -23,24 +23,24 @@
     </tr>
     <tr>
       <td rowspan = "2">Lecture: Functions and Algorithms</td>
-      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab: Introduction to Programming</a><br/>(only complete through Page 2)
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 1B: Introduction to Programming</a><br/>(only complete through Page 2)
       </td>
     </tr>
     <tr>
-      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab: Gossip</a></td>
+      <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 2B: Gossip</a></td>
     </tr>
     <tr>
-      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab: Welcome to Snap!</a></td>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment">Lab 1A: Welcome to Snap!</a></td>
       <td><a href="https://docs.google.com/presentation/d/1nCbASO4tRndnURuD8jf4-3m8Ul5umsCrjhFqpV2LGQg/edit#slide=id.g273b829c944_0_407">Lecture: Domain and Range, Scoping</a>
       </td>
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
       <td>Lecture: Conditions and Scoping</td>
-      <td rowspan = "2"><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab: Modern Art with Polygons<br/>(only complete through Page 6)</a></td>
+      <td rowspan = "2"><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 3B: Modern Art with Polygons<br/>(only complete through Page 6)</a></td>
     </tr>
     <tr>
-      <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Build Your Own Blocks</a></td>
+      <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2A: Build Your Own Blocks</a></td>
     </tr>
   </tbody>
 </table>
