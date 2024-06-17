@@ -37,26 +37,33 @@ will work with you to assess your comprehension and help clarify any concepts or
 </details>
 {% endfor %}
 
-**Intro Lab 1**{: .label .label-lab}[Introduction to Programming](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+**Lab 1B:**{: .label .label-lab}[Introduction to Programming](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
 - How do you ensure you are logged into Snap!?
 - Show us that you've saved this lab to your Snap! account. This is important so you can refer back to your work for future assignments!
 - Show us your Alonzo game.
 - Is there anything you found interesting or challenging about Snap!?
 
-**Intro Lab 2**{: .label .label-lab}[Gossip](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+**Lab 2B:**{: .label .label-lab}[Gossip](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
 - Why do we create our own blocks (or procedures)?
 - What is the difference between a reporter and a command block? What is an example of each?
 - Show us your "more complicated gossip" block. 
 - In the last exercise, we asked you to have "more complicated who" call itself. What do you think is happening here? Don't worry if you don't fully understand this; we will formalize this in a few days!
 
-**Intro Lab 3**{: .label .label-lab}[Modern Art with Polygons](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+**Lab 3B:**{: .label .label-lab}[Modern Art with Polygons](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
 - In this lab you learned a few blocks that achieve repetition. Which blocks are these, and when might you use them?
 - How do you add an input to a block (or procedure)? Why might you do want to do this?
 - Show your most recent pinwheel block. What do the different inputs (or argumnets) control?
 - Show us your squiral block.
 
-**Lab 1**{: .label .label-lab}[Welcome to Snap!](https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment)
+**Lab 1A:**{: .label .label-lab}[Welcome to Snap!](https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment)
 - No checkoff needed
+
+**Lab 1B:**{: .label .label-lab}[Welcome to Snap!]([https://cs10.org/bjc-r/llab/html/topic.html?1&2&3&topic=berkeley_bjc%2Fintro_pair%2F1-introduction.topic&course&novideo&noreading&noassignment](https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment))
+- Show your field of flowers (last page of lab).
+- Why should you Build Your Own Blocks? Give a reason that someone may create a custom block.
+- What are some different ways to achieve repetition? Name at least 2.
+- Show your random-walk sprite.
+- Show your `draw square-leaved flower...` block.
 
 **Lab 4**{: .label .label-lab}[Lists and Higher Order Functions](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment)
 - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
