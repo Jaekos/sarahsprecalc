@@ -2,6 +2,7 @@
 layout: default
 title: Final Projects
 description: A collection of the amazing projects created by the students
+nav_exclude: true
 ---
 
 # Final Project Showcase
