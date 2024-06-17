@@ -1,7 +1,7 @@
 title: BJC 2023 Summer CS Academy
 tagline:
 author: Imen Guechtouli
-baseurl: /bjc-su23-academy # the subpath of your site, e.g. /blog
+baseurl: /bjc-su24 # the subpath of your site, e.g. /blog
 url: https://cs10.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
