@@ -22,7 +22,7 @@
       <td colspan = "2">Working in Snap!</td>
     </tr>
     <tr>
-      <td rowspan = "2">Lecture: Functions and Algorithms</td>
+      <td rowspan = "2"><a href="https://docs.google.com/presentation/d/1JNsDRrr9ccE3mXnRKIvmXeAyBGE93W4gewTUYOAivFA/edit?usp=sharing">Lecture: Functions and Algorithms</a></td>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 1B: Introduction to Programming</a><br/>(only complete through Page 2)
       </td>
     </tr>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td>Iteration Practice +<br/>Lecture: Lists (45 min)</td>
-      <td>Lab: Lists + HOFs (45 min)</td>
+      <td><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Lists + HOFs (45 min)</a></td>
     </tr>
   </tbody>
 </table>
