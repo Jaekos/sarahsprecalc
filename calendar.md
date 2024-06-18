@@ -43,11 +43,11 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2A: Build Your Own Blocks</a></td>
     </tr>
     <tr>
-      <td rowspan = "11">6/18</td>
-      <td rowspan = "5">Block 1: 9:30-11:30AM</td>
+      <td rowspan = "9">6/18</td>
+      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2"><a href="https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Warm Up Activity: Snap! Scavenger Hunt</a></td>
-      <td rowspan = "11"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
-      <td rowspan = "11">Day 2 Reflection</td>
+      <td rowspan = "9"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
+      <td rowspan = "9">Day 2 Reflection</td>
     </tr>
     <tr>
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals</a></td>
