@@ -59,7 +59,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
     <tr>
-      <td rowspan = "3">Block 2: 1:30-3:30PM</td>
+      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
       <td colspan = "2">Whimsical and Fun Game (30 min)</td>
     </tr>
     <tr>
@@ -67,10 +67,10 @@
       <td>Lab: Lists and HOFs</td>
     </tr>
     <tr>
-      <td rowspan = "3">Block 3: 4:00-5:30PM</td>
+      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
       <td colspan = "2">Computing in the news (20 min)</td>
     </tr>
-    <tr>
+    <tr> 
       <td>Lab: Lists and HOFs</td>
       <td>Lecture: Nested Lists (20 min)</Br>Lab: Boards (First half only)</td>
     </tr>
