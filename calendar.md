@@ -60,19 +60,19 @@
     </tr>
     <tr>
       <td rowspan = "2">Block 2: 1:30-3:30PM</td>
-      <td colspan = "2">Whimsical and Fun Game (30 min)</td>
+      <td colspan = "2">Whimsical and Fun Game</td>
     </tr>
     <tr>
-      <td>Lab: Iteration Practice (30 min)</br>Lecture: HOFs and Nested Lists (1 hour)</td>
-      <td>Lab: Lists and HOFs</td>
+      <td>Lab: Iteration Practice +</br>Lecture: HOFs and Nested Lists</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
-      <td colspan = "2">Computing in the news (20 min)</td>
+      <td colspan = "2">Computing in the News</td>
     </tr>
     <tr> 
-      <td>Lab: Lists and HOFs</td>
-      <td>Lecture: Nested Lists (20 min)</Br>Lab: Boards (First half only)</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
+      <td>Lecture: Nested Lists +</Br><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Boards</a> (First half only)</td>
     </tr>
   </tbody>
 </table>
