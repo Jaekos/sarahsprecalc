@@ -50,12 +50,13 @@
       <td rowspan = "10"><a href="https://forms.gle/vApBKmS3hwZcfAPy9">Day 3 Reflection</a></td>
     </tr>
     <tr>
-      <td>Lab: Conditionals (45 min)</td>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals (45 min)</a></td>
       <td>Lecture: Domain and Range Part 2 + HOFs (45 min)</td>
     </tr>
     <tr>
-      <td>Iteration Practice +<br/>Lecture: Lists (45 min)</td>
-      <td><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Lists + HOFs (45 min)</a></td>
+      <td>Iteration Practice +<br/>Lecture: Lists (45 min)<br\>
+      <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Loops + Iteration</a></td>
+      <td><a href="">Lab: Lists + HOFs (45 min)</a></td>
     </tr>
   </tbody>
 </table>
