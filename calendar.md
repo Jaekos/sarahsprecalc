@@ -42,5 +42,20 @@
     <tr>
       <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2A: Build Your Own Blocks</a></td>
     </tr>
+    <tr>
+      <td rowspan = "10">6/18</td>
+      <td>Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Warm Up Activity: Snap! Scavenger Hunt (30 min)</td>
+      <td rowspan = "10"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
+      <td rowspan = "10"><a href="https://forms.gle/vApBKmS3hwZcfAPy9">Day 3 Reflection</a></td>
+    </tr>
+    <tr>
+      <td>Lab: Conditionals (45 min)</td>
+      <td>Lecture: Domain and Range Part 2 + HOFs (45 min)</td>
+    </tr>
+    <tr>
+      <td>Iteration Practice +<br/>Lecture: Lists (45 min)</td>
+      <td>Lab: Lists + HOFs (45 min)</td>
+    </tr>
   </tbody>
 </table>
