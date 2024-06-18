@@ -45,18 +45,18 @@
     <tr>
       <td rowspan = "10">6/18</td>
       <td rowspan = "5">Block 1: 9:30-11:30AM</td>
-      <td colspan = "2">Warm Up Activity: Snap! Scavenger Hunt (30 min)</td>
+      <td colspan = "2">Warm Up Activity: Snap! Scavenger Hunt</td>
       <td rowspan = "10"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
-      <td rowspan = "10"><a href="https://forms.gle/vApBKmS3hwZcfAPy9">Day 3 Reflection</a></td>
+      <td rowspan = "10">Day 2 Reflection</td>
     </tr>
     <tr>
-      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals (45 min)</a></td>
-      <td>Lecture: Domain and Range Part 2 + HOFs (45 min)</td>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals</a></td>
+      <td>Lecture: Domain and Range Part 2 + HOFs</td>
     </tr>
     <tr>
-      <td>Iteration Practice +<br/>Lecture: Lists (45 min)<br\>
+      <td>Iteration Practice Lecture: Lists <br/>
       <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Loops + Iteration</a></td>
-      <td><a href="">Lab: Lists + HOFs (45 min)</a></td>
+      <td><a href="">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
   </tbody>
 </table>
