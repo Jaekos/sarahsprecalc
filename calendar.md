@@ -37,7 +37,7 @@
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
       <td>Lecture: Conditions and Scoping</td>
-      <td rowspan = "2"><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 3B: Modern Art with Polygons<br/>(only complete through Page 6)</a></td>
+      <td rowspan = "2"><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 3B: Modern Art with Polygons</a><br/>(only complete through Page 6)</td>
     </tr>
     <tr>
       <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2A: Build Your Own Blocks</a></td>
