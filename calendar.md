@@ -63,7 +63,7 @@
       <td colspan = "2">Whimsical and Fun Game</td>
     </tr>
     <tr>
-      <td>Lab: Iteration Practice +</br>Lecture: HOFs and Nested Lists</td>
+      <td>Lab: Iteration Practice +<br/>Lecture: HOFs and Nested Lists</td>
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@
     </tr>
     <tr> 
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
-      <td>Lecture: Nested Lists +</Br><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Boards</a> (First half only)</td>
+      <td>Lecture: Nested Lists +<br/><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Boards</a> (First half only)</td>
     </tr>
   </tbody>
 </table>
