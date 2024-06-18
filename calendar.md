@@ -54,7 +54,7 @@
       <td>Lecture: Domain and Range Part 2 + HOFs</td>
     </tr>
     <tr>
-      <td>Iteration Practice Lecture: Lists <br/>
+      <td>Lecture: Lists and Iteration <br/>
       <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Loops + Iteration</a></td>
       <td><a href="">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
