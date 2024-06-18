@@ -51,7 +51,7 @@
     </tr>
     <tr>
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals</a></td>
-      <td>Lecture: Domain and Range Part 2 + HOFs</td>
+      <td><a href="https://docs.google.com/presentation/d/1DcPKgc2Oqn37eUy9epi8jAnNTcR6XnYSlABalvROFf8/edit#slide=id.g2e67ce7e55a_0_48">Lecture: Domain and Range Part 2 + HOFs</a></td>
     </tr>
     <tr>
       <td>Lecture: Lists and Iteration <br/>
