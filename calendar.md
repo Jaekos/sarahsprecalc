@@ -45,7 +45,7 @@
     <tr>
       <td rowspan = "10">6/18</td>
       <td rowspan = "5">Block 1: 9:30-11:30AM</td>
-      <td colspan = "2">Warm Up Activity: Snap! Scavenger Hunt</td>
+      <td colspan = "2"><a href="https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Warm Up Activity: Snap! Scavenger Hunt</a></td>
       <td rowspan = "10"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
       <td rowspan = "10">Day 2 Reflection</td>
     </tr>
