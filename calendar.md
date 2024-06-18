@@ -56,7 +56,7 @@
     <tr>
       <td>Lecture: Lists and Iteration <br/>
       <a href="https://snap.berkeley.edu/snap/snap.html#present:Username=jedi_force&ProjectName=Lab%3a%20Lists%20%2b%20Loops&editMode&noRun">Lab: Loops + Iteration</a></td>
-      <td><a href="">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
   </tbody>
 </table>
