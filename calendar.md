@@ -46,7 +46,7 @@
       <td rowspan = "9">6/18</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2"><a href="https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Warm Up Activity: Snap! Scavenger Hunt</a></td>
-      <td rowspan = "9"><a href="https://docs.google.com/document/d/14yTQOcw_RqoeyT5H0eQZNCjQj1QWi84-KD8yaVftsCQ/edit">Functions as Data Lab</a></td>
+      <td rowspan = "9"><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">Functions as Data Lab</a></td>
       <td rowspan = "9"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 2 Reflection</a></td>
     </tr>
     <tr>
