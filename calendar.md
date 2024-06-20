@@ -43,11 +43,11 @@
       <td><a href="https://cs10.org/bjc-r/cur/programming/loops/repeat-n/introduction-to-repeat-n.html?1&2&2&3&topic=berkeley_bjc%2Fintro_pair%2F2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab 2A: Build Your Own Blocks</a></td>
     </tr>
     <tr>
-      <td rowspan = "9">6/18</td>
+      <td rowspan = "7">6/18</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2"><a href="https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Warm Up Activity: Snap! Scavenger Hunt</a></td>
-      <td rowspan = "9"><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">Functions as Data Lab</a></td>
-      <td rowspan = "9"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 2 Reflection</a></td>
+      <td rowspan = "7"><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">Functions as Data Lab</a></td>
+      <td rowspan = "7"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 2 Reflection</a></td>
     </tr>
     <tr>
       <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fintro_pair%2F2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">Lab: Conditionals</a></td>
@@ -73,6 +73,38 @@
     <tr> 
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab: Lists + HOFs</a><br/>(You can skip the section on "List Mutation")</td>
       <td>Lecture: Nested Lists +<br/><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Lab: Boards</a> (First half only)</td>
+    </tr>
+    <tr>
+      <td>6/19</td>
+      <td colspan = "5">Juneteenth Holiday</td>
+    </tr>
+    <tr>
+      <td rowspan = "9">6/20</td>
+      <td rowspan = "4">Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Gradescope Overview</td>
+      <td rowspan = "9">For 2048: Add some scaffolding for no moves left!</td>
+      <td rowspan = "9"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 3 Reflection</a></td>
+    </tr>
+    <tr>
+      <td colspan = "2">Review Session</td>
+    </tr>
+    <tr>
+      <td colspan = "2">Lecture: Intro to Nested Lists</td>
+    </tr>
+    <tr>
+      <td>Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lists + HOFs</a> or Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Boards</a></td>
+      <td>Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Boards</a> (but using HOFs) or Lab: <a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2Fhofs%2Fhofs-practice.topic&course&novideo&noreading&noassignment">Functions as Data</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
+      <td colspan = "2">Whimsical and Fun Game Part 2</td>
+    </tr>
+    <tr>
+      <td colspan = "2"> Project: 2048 or Project: Spelling Bee</td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
+      <td colspan = "2">Algorithm Activity with Binary Search</td>
     </tr>
   </tbody>
 </table>
