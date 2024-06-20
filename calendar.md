@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
-      <td colspan = "2"><a href="https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/">Algorithm Activity</a> with Binary Search</td>
+      <td colspan = "2"><a href="https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/">Algorithm Activity</a> with Binary Search and <a href="https://cs10.org/bjc-r/cur/programming/algorithms/algorithms-in-snap.html?topic=berkeley_bjc%2Fareas%2Falgorithms.topic&course&novideo&noreading&noassignment">Searching Sorted Data</a></td>
     </tr>
   </tbody>
 </table>
