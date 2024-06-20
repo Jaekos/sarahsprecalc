@@ -79,11 +79,11 @@
       <td colspan = "5">Juneteenth Holiday</td>
     </tr>
     <tr>
-      <td rowspan = "9">6/20</td>
+      <td rowspan = "7">6/20</td>
       <td rowspan = "4">Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Gradescope Overview</td>
-      <td rowspan = "9">For 2048: Add some scaffolding for no moves left!</td>
-      <td rowspan = "9"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 3 Reflection</a></td>
+      <td rowspan = "7">For 2048: Add some scaffolding for no moves left!</td>
+      <td rowspan = "7"><a href="https://forms.gle/9eauViDzEPUUtLcJ6">Day 3 Reflection</a></td>
     </tr>
     <tr>
       <td colspan = "2">Review Session</td>
@@ -100,7 +100,8 @@
       <td colspan = "2">Whimsical and Fun Game Part 2</td>
     </tr>
     <tr>
-      <td colspan = "2"> Project: 2048 or Project: Spelling Bee</td>
+      <td>Project: <a href=https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb>Spelling Bee</a></td>
+      <td>Project: <a href=https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit>2048</a></td>
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
