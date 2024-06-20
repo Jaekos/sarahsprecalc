@@ -105,7 +105,7 @@
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
-      <td colspan = "2">Algorithm Activity with Binary Search</td>
+      <td colspan = "2"><a href="https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/">Algorithm Activity</a> with Binary Search</td>
     </tr>
   </tbody>
 </table>
