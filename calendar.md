@@ -100,8 +100,8 @@
       <td colspan = "2">Whimsical and Fun Game Part 2</td>
     </tr>
     <tr>
-      <td>Project: <a href=https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb>Spelling Bee</a></td>
-      <td>Project: <a href=https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit>2048</a></td>
+      <td>Project: <a href="https://docs.google.com/document/d/180psa7QELpesRzubYGV-1REMECGmFItsMSA2R8siIZA/edit#heading=h.casab6a7p3lb">Spelling Bee</a></td>
+      <td>Project: <a href="https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit">2048</a></td>
     </tr>
     <tr>
       <td rowspan = "2">Block 3: 4:00-5:30PM</td>
