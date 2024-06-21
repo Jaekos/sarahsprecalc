@@ -112,7 +112,7 @@
       <td>Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Lab/Project Work</td>
       <td rowspan = "6"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
-      <td rowspan = "6">Day 4 Reflection</td>
+      <td rowspan = "6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2JXJSOnpo83lk0fqApwqLbZLswBYUe4fkGEQaa_zi4anF7A/viewform">Day 4 Reflection </a></td>
     </tr>
     <tr>
       <td rowspan = "3">Block 2: 1:30-3:30PM</td>
