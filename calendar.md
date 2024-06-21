@@ -112,11 +112,11 @@
       <td>Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Lab/Project Work</td>
       <td rowspan = "6"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td>
-      <td rowspan = "6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfDmmV5JFi5PrzmFYoQDPl4ggTDaq9lWt-j0mlqRdu6jXfing/viewform">Day 4 Reflection</a></td>
+      <td rowspan = "6">Day 4 Reflection</td>
     </tr>
     <tr>
       <td rowspan = "3">Block 2: 1:30-3:30PM</td>
-      <td colspan = "2">Whimsical and Fun Game</td>
+      <td colspan = "2">Game</td>
     <tr>
       <td colspan = "2">Lecture: Intro to Recursion</td>
     </tr>
