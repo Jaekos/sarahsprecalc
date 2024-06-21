@@ -25,7 +25,6 @@
       <td rowspan = "2"><a href="https://docs.google.com/presentation/d/1JNsDRrr9ccE3mXnRKIvmXeAyBGE93W4gewTUYOAivFA/edit?usp=sharing">Lecture: Functions and Algorithms</a></td>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 1B: Introduction to Programming</a><br/>(only complete through Page 2)
       </td>
-      <td rowspan="1"><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
     </tr>
     <tr>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 2B: Gossip</a></td>
@@ -112,7 +111,7 @@
       <td rowspan = "6">6/21</td>
       <td>Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Lab/Project Work</td>
-      <td rowspan = "6"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td>
+      <td rowspan = "3"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
       <td rowspan = "6">Day 4 Reflection</td>
     </tr>
     <tr>
