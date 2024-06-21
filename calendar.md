@@ -104,8 +104,29 @@
       <td>Project: <a href="https://docs.google.com/document/d/16quGw0eUFT__z67uH7NLr-twGBnXriL4SEIkn0XBLaM/edit">2048</a></td>
     </tr>
     <tr>
-      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
+      <td>Block 3: 4:00-5:30PM</td>
       <td colspan = "2"><a href="https://www.csfieldguide.org.nz/en/interactives/sorting-algorithms/">Algorithm Activity</a> with Binary Search and <a href="https://cs10.org/bjc-r/cur/programming/algorithms/algorithms-in-snap.html?topic=berkeley_bjc%2Fareas%2Falgorithms.topic&course&novideo&noreading&noassignment">Searching Sorted Data</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "6">6/21</td>
+      <td>Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Lab/Project Work</td>
+      <td rowspan = "6">Recursive Reporters</td>
+      <td rowspan = "6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfDmmV5JFi5PrzmFYoQDPl4ggTDaq9lWt-j0mlqRdu6jXfing/viewform">Day 4 Reflection</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "3">Block 2: 1:30-3:30PM</td>
+      <td colspan = "2">Whimsical and Fun Game</td>
+    <tr>
+      <td colspan = "2">Lecture: Intro to Recursion</td>
+    </tr>
+    <tr>
+      <td colspan = "2">Lab: <a href=“”>Trees and Fractals</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 4: 4:00-5:30PM</td>
+      <td colspan = "2">Lab: <a href=“”>Trees and Fractals</a></td>
+      <td colspan = "2">Introduce Final Project</td>
     </tr>
   </tbody>
 </table>
