@@ -111,7 +111,7 @@
       <td rowspan = "6">6/21</td>
       <td>Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Lab/Project Work</td>
-      <td rowspan = "6">Recursive Reporters</td>
+      <td rowspan = "6"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td>
       <td rowspan = "6"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfDmmV5JFi5PrzmFYoQDPl4ggTDaq9lWt-j0mlqRdu6jXfing/viewform">Day 4 Reflection</a></td>
     </tr>
     <tr>
@@ -121,11 +121,13 @@
       <td colspan = "2">Lecture: Intro to Recursion</td>
     </tr>
     <tr>
-      <td colspan = "2">Lab: <a href=“”>Trees and Fractals</a></td>
+      <td colspan = "2">Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
     </tr>
     <tr>
       <td rowspan = "2">Block 4: 4:00-5:30PM</td>
-      <td colspan = "2">Lab: <a href=“”>Trees and Fractals</a></td>
+      <td colspan = "2">Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
+    </tr>
+    <tr>
       <td colspan = "2">Introduce Final Project</td>
     </tr>
   </tbody>
