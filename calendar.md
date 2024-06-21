@@ -25,6 +25,7 @@
       <td rowspan = "2"><a href="https://docs.google.com/presentation/d/1JNsDRrr9ccE3mXnRKIvmXeAyBGE93W4gewTUYOAivFA/edit?usp=sharing">Lecture: Functions and Algorithms</a></td>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 1B: Introduction to Programming</a><br/>(only complete through Page 2)
       </td>
+      <td rowspan="1"><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
     </tr>
     <tr>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/2-gossip-and-greet/1-pair-programming.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Lab 2B: Gossip</a></td>
