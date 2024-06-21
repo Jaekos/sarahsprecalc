@@ -82,7 +82,7 @@
       <td rowspan = "7">6/20</td>
       <td rowspan = "4">Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Gradescope Overview</td>
-      <td rowspan = "7">For 2048: Add some scaffolding for no moves left!</td>
+      <td rowspan = "7"></td>
       <td rowspan = "7"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfDmmV5JFi5PrzmFYoQDPl4ggTDaq9lWt-j0mlqRdu6jXfing/viewform">Day 3 Reflection</a></td>
     </tr>
     <tr>
