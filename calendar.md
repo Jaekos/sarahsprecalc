@@ -117,6 +117,7 @@
     <tr>
       <td rowspan = "3">Block 2: 1:30-3:30PM</td>
       <td colspan = "2">Game</td>
+    </tr>
     <tr>
       <td colspan = "2">Lecture: Intro to Recursion</td>
     </tr>
