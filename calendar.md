@@ -128,7 +128,7 @@
       <td colspan = "2">Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
     </tr>
     <tr>
-      <td colspan = "2">Introduce Final Project</td>
+      <td colspan = "2"><a href="https://cs10.org/bjc-su24/assignment/?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Introduce Final Project</a></td>
     </tr>
   </tbody>
 </table>
