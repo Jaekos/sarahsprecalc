@@ -139,7 +139,7 @@
       <td rowspan = "7"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2JXJSOnpo83lk0fqApwqLbZLswBYUe4fkGEQaa_zi4anF7A/viewform">Day 5 Reflection </a></td>
     </tr>
     <tr>
-      <td colspan = "2">Debugging Activity</td>
+      <td colspan = "2"><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=amycastillo&ProjectName=debugging%20activity">Debugging Activity</a></td>
     </tr>
     <tr>
       <td colspan = "2">Final Project Proposal Due</td>
