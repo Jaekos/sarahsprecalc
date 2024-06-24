@@ -119,7 +119,7 @@
       <td colspan = "2">Game</td>
     </tr>
     <tr>
-      <td colspan = "2">Lecture: Intro to Recursion</td>
+      <td colspan = "2"><a href="https://docs.google.com/presentation/d/1j9doG5uTGYxsFeGp3PNs3ypOowmckEKe6nYhW33dc8s/edit#slide=id.p">Lecture: Intro to Recursion</a></td>
     </tr>
     <tr>
       <td colspan = "2">Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
@@ -149,7 +149,7 @@
       <td colspan = "2"><a href = "https://docs.google.com/forms/d/e/1FAIpQLSed3EzDe6WRomyIDhf5FWVs37xSXYpML1ZKy-F3KSUCM0-WlQ/viewform?usp=sharing">Final Project Details</a> Due</td>
     </tr>
     <tr>
-      <td>Lecture: Intro to Recursion</td>
+      <td><a href="https://docs.google.com/presentation/d/1j9doG5uTGYxsFeGp3PNs3ypOowmckEKe6nYhW33dc8s/edit#slide=id.p">Lecture: Intro to Recursion</a></td>
       <td>Lecture: Recursion Part 2</td>
     </tr>
     <tr>
