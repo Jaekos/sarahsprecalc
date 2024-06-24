@@ -129,7 +129,36 @@
       <td colspan = "2">Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
     </tr>
     <tr>
-      <td colspan = "2"><a href="https://cs10.org/bjc-su24/assignment/?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Introduce Final Project</a></td>
+      <td colspan = "2"><a href="https://cs10.org/bjc-su24/assignment/?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6- IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Introduce Final Project</a></td>
+    </tr>
+    <tr>
+      <td rowspan = "7">6/24</td>
+      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Work Session</td>
+      <td rowspan = "7"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
+      <td rowspan = "7"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2JXJSOnpo83lk0fqApwqLbZLswBYUe4fkGEQaa_zi4anF7A/viewform">Day 5 Reflection </a></td>
+    </tr>
+    <tr>
+      <td colspan = "2">Debugging Activity</td>
+    </tr>
+    <tr>
+      <td colspan = "2">Final Project Proposal Due</td>
+    </tr>
+    <tr>
+      <td rowspan = "3">Block 2: 1:30-3:30PM</td>
+      <td colspan = "2">Lecture: Intro to AI (optional)</td>
+    </tr>
+    <tr>
+      <td>Lecture: Intro to Recursion</td>
+      <td>Lecture: Recursion Part 2</td>
+    </tr>
+    <tr>
+      <td>Lab: <a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Trees and Fractals</a></td>
+      <td>Lab: <a href= "https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td>
+    </tr>
+    <tr>
+      <td>Block 4: 4:00-5:30PM</td>
+      <td colspan = "2">Work Session</td>
     </tr>
   </tbody>
 </table>
