@@ -136,7 +136,7 @@
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Work Session</td>
       <td rowspan = "8"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
-      <td rowspan = "8"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd2JXJSOnpo83lk0fqApwqLbZLswBYUe4fkGEQaa_zi4anF7A/viewform">Day 5 Reflection </a></td>
+      <td rowspan = "8"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 5 Reflection </a></td>
     </tr>
     <tr>
       <td colspan = "2"><a href="https://snap.berkeley.edu/snap/snap.html#present:Username=amycastillo&ProjectName=debugging%20activity">Debugging Activity</a></td>
