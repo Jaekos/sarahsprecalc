@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td>Lecture: Websites/APIs (Optional)</td>
+      <td><a href="https://docs.google.com/presentation/d/13ABVFG4lNB7k_JxOO6i2tVzsFQeCFGVJyStq8Ju3Bl8/edit?usp=sharing">Lecture: Websites/APIs (Optional)</a></td>
       <td>Work Session</td>
     </tr>
     <tr>
