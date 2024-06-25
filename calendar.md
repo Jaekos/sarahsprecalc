@@ -169,7 +169,7 @@
       <td rowspan = "2">Work Session</td>
       <td>Lecture: Algorithmic Complexity (Optional)</td>
       <td rowspan = "6"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
-      <td rowspan = "6"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 6 Reflection </a></td>
+      <td rowspan = "6"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 6 Reflection</a><br/><br/><a href="https://docs.google.com/document/d/198_8e-xAoX0U790ZonW18KCLuXEPfblDYLBvKDIECcM/edit">Final Project Spec</td>
     </tr>
     <tr>
       <td>Practice:<a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit"> Algorithmic Complexity</a></td>
@@ -179,7 +179,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td><a href="https://docs.google.com/presentation/d/13ABVFG4lNB7k_JxOO6i2tVzsFQeCFGVJyStq8Ju3Bl8/edit?usp=sharing">Lecture: Websites/APIs (Optional)</a></td>
+      <td>Lecture: <a href="https://docs.google.com/presentation/d/13ABVFG4lNB7k_JxOO6i2tVzsFQeCFGVJyStq8Ju3Bl8/edit?usp=sharing">Websites/APIs</a> (Optional)</td>
       <td>Work Session</td>
     </tr>
     <tr>
@@ -188,6 +188,31 @@
     </tr>
     <tr>
       <td colspan = "2">Work Session</td>
+    </tr>
+    <tr>
+      <td rowspan = "6">6/26</td>
+      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td colspan = "2">Activity: Number Representation</td>
+      <td rowspan = "6"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
+      <td rowspan = "6"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 7 Reflection </a></td>
+    </tr>
+    <tr>
+      <td colspan = "2">Final Project Work</td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
+      <td colspan = "2">Activity: Ask Me Anything</td>
+    </tr>
+    <tr>
+      <td colspan = "2">Final Project Work</td>
+    </tr>
+    <tr>
+      <td>Block 3: 4:00-5:30PM</td>
+      <td colspan = "2">Final Project Work</td>
+    </tr>
+    <tr>
+      <td>Block 4: 7:00-9:00PM</td>
+      <td colspan = "2">Hackathon: Final Project Work</td>
     </tr>
   </tbody>
 </table>
