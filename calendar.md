@@ -135,7 +135,7 @@
       <td rowspan = "8">6/24</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Work Session</td>
-      <td rowspan = "8"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
+      <td rowspan = "8"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a><br/><br/><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit"> Algorithmic Complexity</a></td>
       <td rowspan = "8"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 5 Reflection </a></td>
     </tr>
     <tr>
