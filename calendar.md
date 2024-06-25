@@ -135,7 +135,7 @@
       <td rowspan = "8">6/24</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td colspan = "2">Work Session</td>
-      <td rowspan = "8"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a><br/><br/><a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit"> Algorithmic Complexity</a></td>
+      <td rowspan = "8"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
       <td rowspan = "8"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 5 Reflection </a></td>
     </tr>
     <tr>
@@ -157,8 +157,34 @@
       <td>Lab: <a href= "https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Recursive Reporters</a></td>
     </tr>
     <tr>
-      <td rowspan = "2">Block 4: 4:00-5:30PM</td>
+      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
       <td colspan = "2">Lecture: Intro to AI</td>
+    </tr>
+    <tr>
+      <td colspan = "2">Work Session</td>
+    </tr>
+    <tr>
+      <td rowspan = "6">6/25</td>
+      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
+      <td rowspan = "2">Work Session</td>
+      <td>Lecture: Algorithmic Complexity (Optional)</td>
+      <td rowspan = "6"><a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a><br/><br/><a href="https://drive.google.com/file/d/1i0zZXSi5d46Bahaee3EIPGU9ckVQjOUN/view"> Midterm Exam</a></td>
+      <td rowspan = "6"><a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 6 Reflection </a></td>
+    </tr>
+    <tr>
+      <td>Practice:<a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit"> Algorithmic Complexity</a></td>
+    </tr>
+    <tr>
+      <td colspan = "2">Optional: Fractal Competition</td>
+    </tr>
+    <tr>
+      <td>Block 2: 1:30-3:30PM</td>
+      <td>Lecture: Websites/APIs (Optional)</td>
+      <td>Work Session</td>
+    </tr>
+    <tr>
+      <td rowspan = "2">Block 3: 4:00-5:30PM</td>
+      <td colspan = "2">Vote on Fractal Competition</td>
     </tr>
     <tr>
       <td colspan = "2">Work Session</td>
