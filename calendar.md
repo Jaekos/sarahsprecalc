@@ -226,7 +226,7 @@
       <td colspan = "2">Final Project Demos</td>
     </tr>
     <tr>
-      <td>Block 3: 4:00-5:30PM</td>
+      <td>Block 3: 4:30-5:30PM</td>
       <td colspan = "2">Farewell</td>
     </tr>
   </tbody>
