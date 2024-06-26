@@ -192,7 +192,7 @@
     <tr>
       <td rowspan = "6">6/26</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
-      <td colspan = "2">Activity: Number Representation</td>
+      <td colspan = "2">Lecture: Algorithmic Bias</td>
       <td rowspan = "6"></td>
       <td rowspan = "6">Reflection: <a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 7</a></td>
     </tr>
@@ -222,7 +222,7 @@
       <td rowspan = "3"></td>
     </tr>
     <tr>
-      <td>Block 2: 1:30-3:30PM</td>
+      <td>Block 2: 1:30-4:00PM</td>
       <td colspan = "2">Final Project Demos</td>
     </tr>
     <tr>
