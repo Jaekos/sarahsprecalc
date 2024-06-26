@@ -169,7 +169,7 @@
       <td rowspan = "2">Lab/Project Work Session</td>
       <td>Lecture: Algorithmic Complexity (Optional)</td>
       <td rowspan = "6">Discussion: <a href="https://docs.google.com/document/d/15mPLV6plJDJmFJgpsitVBMKP8PlA9E33sxH4gslFKN0/edit">Tree Recursion</a></td>
-      <td rowspan = "6">Reflection: <a href="https://docs.google.com/forms/d/e/1FAIpQLSff17oGIlq-Jzxr4rzsDpU9rfd4gnXUe2SBm_njzDMlk7Wv5A/viewform">Day 6</a><br/><br/><a href="https://docs.google.com/document/d/198_8e-xAoX0U790ZonW18KCLuXEPfblDYLBvKDIECcM/edit">Final Project Spec</td>
+      <td rowspan = "6">Reflection: <a href="https://docs.google.com/forms/d/e/1FAIpQLSff17oGIlq-Jzxr4rzsDpU9rfd4gnXUe2SBm_njzDMlk7Wv5A/viewform">Day 6</a><br/><br/><a href="https://docs.google.com/document/d/198_8e-xAoX0U790ZonW18KCLuXEPfblDYLBvKDIECcM/edit">Final Project Spec</a></td>
     </tr>
     <tr>
       <td>Practice:<a href="https://docs.google.com/document/d/1aMf_Cdq8euuGD5g-4fRjra3miXztUeGTUAC7jfVOAC4/edit"> Algorithmic Complexity</a></td>
