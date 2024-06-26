@@ -192,7 +192,7 @@
     <tr>
       <td rowspan = "6">6/26</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
-      <td colspan = "2">Lecture: Algorithmic Bias</td>
+      <td colspan = "2"><a href="https://docs.google.com/presentation/d/19nH0BlJab-fX6KRXuVT4e3P8FW0pId8wAfT0XmeS9sA/edit#slide=id.p">Discussion: Algorithmic Bias</a></td>
       <td rowspan = "6"></td>
       <td rowspan = "6">Reflection: <a href="https://forms.gle/XYrHsJ6FuuTkfs7NA">Day 7</a></td>
     </tr>
