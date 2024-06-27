@@ -18,6 +18,10 @@ UC Berkeley, Summer 2024
 
 **[Final Project Demos Zoom Link](https://berkeley.zoom.us/j/99191502757?pwd=UOH9KU98VhbPuAxpxaR9LYgvwxT0Ob.1)**
 
+Meeting ID: 991 9150 2757
+
+Passcode: CSA24
+
 ## Course Calendar
 
 {% include_relative calendar.md %}
