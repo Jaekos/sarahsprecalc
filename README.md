@@ -1,4 +1,4 @@
-# Ms. Taylor's Precalculus class [https://BayTechPreCalc.org]()
+# Ms. Taylor's Precalculus class [https://BayTechPreCalculus.org]()
 ---
 
 ### Just The Class Info
