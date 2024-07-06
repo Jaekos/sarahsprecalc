@@ -1,8 +1,8 @@
-title: BJC Summer Academy
+title: Ms. Taylor's Precalculus Class
 tagline:
 author: 
-baseurl: /bjc-su24 # the subpath of your site, e.g. /blog
-url: https://cs10.org
+baseurl: /Precalc # the subpath of your site, e.g. /blog
+url: https://baytech.org
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 logo: "./assets/images/bjc.png"
@@ -15,28 +15,24 @@ heading_anchors: true
 permalink: pretty
 aux_links_new_tab: true
 ga_tracking: UA-47210910-1
-external_navigation:
+external_navigation: #for later access to things
   - title: Snap!
     url: https://snap.berkeley.edu/run
-  - title: Gradescope
-    url: https://www.gradescope.com/courses/798362
-  - title: iClicker
-    url: https://student.iclicker.com/#/login
 
 footer_content:
 
-labsurl: https://cs10.org/
+#labsurl: https://cs10.org/
 
 ###### TODO: UPDATE THESE, CURRENTLY UNUSED
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
-startDate: 2016-06-20 # First Sunday
-endDate:   2016-06-30 # Last Saturday
+startDate: 2024-09-12 # First Sunday
+endDate:   2025-06-05 # Last Saturday
 
 # Change the calendar to show Sun-Sat instead of M-F when an exam is near
-questDate: 2016-02-17
-midtermDate: 2016-03-16
-finalDate: 2016-05-10
+test1Date: 2024-10-01
+test2Date: 2016-11-16
+finalDate: 2016-12-18
 # from console.developers.google.com
 # This key can be public and is tied to a users calendar accesses
 # whoever this key belongs to should have access to the CS10 galendars.
