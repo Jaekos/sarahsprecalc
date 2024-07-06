@@ -1,4 +1,4 @@
-# CS10 Spring 2022 [https://cs10.org/sp22]()
+# Ms. Taylor's Precalculus class [https://Precalculus.org]()
 ---
 
 ### Just The Class Info
